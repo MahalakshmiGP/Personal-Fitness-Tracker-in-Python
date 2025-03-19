@@ -29,8 +29,7 @@ Matplotlib (for visualizations)
 
 Clone the Repository
 
-git clone https://github.com/yourusername/Personal-Fitness-Tracker.git
-
+git clone https://github.com/MahalakshmiGP/Personal-Fitness-Tracker-in-Python.git
 Navigate to the Project Directory
 
 cd Personal-Fitness-Tracker
